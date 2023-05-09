@@ -1,6 +1,6 @@
 ## Assignemnt -01 DS Bootcamp
 Report (Data Science Bootcamp_Assignment 01)
-contains the summarisation of UCI hear dataset Data Analysis/EDA and Logistic regression prediction
+contains the summarisation of UCI heart dataset Data Analysis/EDA and Logistic regression prediction
 
 
 
